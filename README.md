@@ -23,3 +23,6 @@ Data file format: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Datafile should be CSV file; </br>
 &nbsp;&nbsp;&nbsp;&nbsp;The header must be "substance_id, smiles, label"; </br>
 &nbsp;&nbsp;&nbsp;&nbsp;In "label" column, use "0" for all compounds so the visualization can implement. </br>
+
+## Acknowledgement
+The code is based on https://github.com/momeara/DeepSEA
