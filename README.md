@@ -17,7 +17,7 @@ The visualization of predictive unstable compounds with hightlighted unstable fr
 
 ## Usage
 `>python predict.py *yourfilepath* *amount*` </br>
-Examples: `>python predict.py test.csv 5` </br>
+Examples: `>python predict.py test.csv 8` </br>
 
 Data file format: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Datafile should be CSV file; </br>
